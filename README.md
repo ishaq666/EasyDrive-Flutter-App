@@ -1,6 +1,6 @@
-# easydrive
+# EasyDrive
 
-A new Flutter project.
+Congestion Free Commute & Student Safety
 
 ## Getting Started
 
